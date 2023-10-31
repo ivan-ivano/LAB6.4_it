@@ -8,10 +8,6 @@ def generate_list():
     return b
 
 
-
-# a = [-1, 48, 50, 14, 0, -5, -7, -6, 45, 0, 0, 1, 2, 3]
-
-
 def min_in_array(lst):
     i = 0
     lst_min = lst[0]
